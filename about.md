@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Data Scientist from Vancouver
 
 ### More Information
 
@@ -12,4 +12,4 @@ As aspiring Data Scientist transitioning from UX/UI design, data was always a pa
 
 ### Contact me
 
-[kole@data@analytics.ca](mailto:kole@data@analytics.ca)
+[kole@data-analytics.ca](mailto:kole@data-analytics.ca)
